@@ -1,0 +1,9 @@
+.vs/
+
+HelloWorld/Bin/
+HelloWorld/obj/
+
+HelloWorld.Web/Bin/
+HelloWorld.Web/obj/
+HelloWorld.Web/ClientBin/
+HelloWorld.Web/HelloWorld.Web.csproj.user
