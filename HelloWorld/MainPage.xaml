@@ -23,7 +23,7 @@
         </Grid.RowDefinitions>
 
         <TextBox x:Name="txtInput" Margin="15" />
-        <Button Margin="5" Grid.Row="1" Content="Touch me!" Click="Button_Click" />
+        <Button Margin="5" Grid.Row="1" Content="Touch me remote!" Click="Button_Click" />
         <TextBlock x:Name="txtText" Grid.Row="2" Text="Не определено" TextAlignment="Center" VerticalAlignment="Center" />
     </Grid>
 </UserControl>
